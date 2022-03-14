@@ -1,0 +1,18 @@
+body {
+    Background-color: #13315c; 
+}
+
+div{
+    color: white;
+
+}
+
+.semana {
+    background-color: yellow;
+    color: black;
+    border: 4px black solid;  
+
+}
+.red {
+    color:red;
+}
